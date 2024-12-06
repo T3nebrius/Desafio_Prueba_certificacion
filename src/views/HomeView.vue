@@ -1,18 +1,9 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <h1>Sitio de Flora y Fauna Chilena</h1>
+  <h2>Conozca nuestra flora y fauna autóctona</h2>
+  <h3>
+    <router-link to="/principal">
+      <button class="btn btn-primary">BUSCAR</button>
+    </router-link>
+  </h3>
 </template>
-
-<script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
-export default {
-  name: 'HomeView',
-  components: {
-    HelloWorld
-  }
-}
-</script>

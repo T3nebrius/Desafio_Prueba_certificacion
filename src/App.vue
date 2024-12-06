@@ -1,10 +1,18 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
+  <NavBarComponente />
   <router-view/>
 </template>
+
+<script>
+import NavBarComponente from "./components/NavBarComponente.vue";
+
+export default {
+  components: { NavBarComponente },
+  async mounted(){
+    await this.$store.dispatch("fetchTodaFauna")
+  }
+}
+</script>
 
 <style lang="scss">
 #app {

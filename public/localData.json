@@ -1,0 +1,76 @@
+{
+  "especies": [
+    {
+      "id": 1,
+      "nombre": "Araucaria Araucana",
+      "tipo": "Flora",
+      "ubicacion": "Cordillera de los Andes y Cordillera de la Costa",
+      "descripcion": "La Araucaria Araucana es un árbol emblemático de Chile, conocido también como Pehuén. Es una especie longeva que puede alcanzar los 50 metros de altura y tiene un tronco grueso y ramificado. Es considerado un fósil viviente.",
+      "imagen": "https://arauco.com/chile/wp-content/uploads/sites/14/2018/07/Araucaria-araucana-Araucaria-BFica-1024x768.jpg",
+      "estadoConservacion": "Vulnerable"
+    },
+    {
+      "id": 2,
+      "nombre": "Puma Concolor",
+      "tipo": "Fauna",
+      "ubicacion": "Cordillera de los Andes, Patagonia y Región del Maule",
+      "descripcion": "El puma es el felino más grande de Chile y uno de los depredadores más importantes en el ecosistema. Es un animal solitario y territorial, capaz de recorrer grandes distancias en busca de presas.",
+      "imagen": "https://laderasur.com/wp-content/uploads/2018/03/LS_puma01.jpg",
+      "estadoConservacion": "En Peligro"
+    },
+    {
+      "id": 3,
+      "nombre": "Lupino Andino",
+      "tipo": "Flora",
+      "ubicacion": "Zona Central y Sur de Chile",
+      "descripcion": "El Lupino Andino es una planta perenne que se caracteriza por sus flores en forma de espiga de color azul o violeta. Es comúnmente encontrado en praderas y zonas abiertas en la Región de Los Lagos y Los Ríos.",
+      "imagen": "https://laderasur.com/wp-content/uploads/2021/10/lupino-en-punta-arenas-2.jpg",
+      "estadoConservacion": "Preocupación Menor"
+    },
+    {
+      "id": 4,
+      "nombre": "Cóndor Andino",
+      "tipo": "Fauna",
+      "ubicacion": "Cordillera de los Andes",
+      "descripcion": "El cóndor es el ave voladora más grande del mundo y uno de los símbolos de Chile. Habita principalmente en las altas montañas de los Andes, y es conocido por su gran envergadura y su vuelo majestuoso.",
+      "imagen": "https://conlagentenoticias.com/wp-content/uploads/2024/07/146.jpg",
+      "estadoConservacion": "Vulnerable"
+    },
+    {
+      "id": 5,
+      "nombre": "Nothofagus Pumilio",
+      "tipo": "Flora",
+      "ubicacion": "Región de Magallanes",
+      "descripcion": "El Nothofagus Pumilio, también conocido como Lenga, es un árbol nativo de la región austral de Chile. Es muy resistente al frío y suele crecer en áreas montañosas de la Patagonia.",
+      "imagen": "https://static.inaturalist.org/photos/22192097/large.jpg",
+      "estadoConservacion": "Preocupación Menor"
+    },
+    {
+      "id": 6,
+      "nombre": "Zorro Chilote",
+      "tipo": "Fauna",
+      "ubicacion": "Isla de Chiloé y Región de Los Lagos",
+      "descripcion": "El Zorro Chilote es una especie endémica de la Isla de Chiloé. Se caracteriza por su pequeño tamaño y su pelaje rojizo. Es un animal solitario y principalmente nocturno.",
+      "imagen": "https://farsouthexp.com/wp-content/uploads/2017/02/Tepuhueico-Chilo%C3%A9-%C2%A9ECM_7112-1024x631.jpg",
+      "estadoConservacion": "Vulnerable"
+    },
+    {
+      "id": 7,
+      "nombre": "Ciprés de las Guaitecas",
+      "tipo": "Flora",
+      "ubicacion": "Zona Austral de Chile",
+      "descripcion": "El Ciprés de las Guaitecas es un árbol que crece en los bosques lluviosos de la Patagonia chilena. Es muy valorado por su madera resistente y aromática, utilizada en la construcción y ebanistería.",
+      "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/191234657/large.jpeg",
+      "estadoConservacion": "En Peligro"
+    },
+    {
+      "id": 8,
+      "nombre": "Huemul",
+      "tipo": "Fauna",
+      "ubicacion": "Cordillera de los Andes, Patagonia",
+      "descripcion": "El Huemul es un ciervo nativo de los bosques templados de Chile. Es un símbolo nacional y una de las especies más amenazadas, en peligro de extinción debido a la caza y la pérdida de hábitat.",
+      "imagen": "https://www.rewildingchile.org/web/wp-content/uploads/2022/02/TC-PNP-JanVincentKleine-7893-1380x920.jpg",
+      "estadoConservacion": "En Peligro"
+    }
+  ]
+}
